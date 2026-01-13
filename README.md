@@ -1,4 +1,4 @@
-# Ooi, me chamo Carolina 👋
+# Olá, me chamo Ana Carolina 👋
 
 ## Contatos:
 <div>
@@ -8,23 +8,14 @@
 </div>
   
 ## Conhecimentos:
-![PROTHEUS]("https://br.freepik.com/vetores-gratis/ilustracao-de-gradiente-de-erp_25561172.htm)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img width="100px" src="https://crmsimples.com.br/wp-content/uploads/2025/08/LOGO-PROTHEUS.png">
+<img width="100px" src="https://bluecast.com.br/wp-content/uploads/2021/11/Bluecast-IT-Outsourcing-ADVPL.jpg">
+<img width="100px" src="https://png.pngtree.com/png-vector/20220726/ourmid/pngtree-design-a-uiux-app-logo-with-a-sql-database-icon-vector-png-image_25084656.png">
+<img width="100px" src="https://miro.medium.com/1*J3G3akaMpUOLegw0p0qthA.png">
+<img width="100px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png">
+
 
 ## IDE:
-![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## Sites gratuitos para estudar:
-<a href="https://www.codecademy.com/learn/introduction-to-javascript" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" target="_blank"></a>
-<a href="https://www.duolingo.com/learn" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
-<a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
-<a href="https://www.edx.org/" target="_blank"><img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" target="_blank"></a>
 
 ### Valorize as pequenas conquistas diárias. Cada dia que você não desiste é um dia que você vence! 
